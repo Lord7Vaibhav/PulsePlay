@@ -20,3 +20,6 @@ Kotlin – Core app logic.
 XML Layouts – UI design.
 
 Android Manifest – Permissions & activity setup
+
+Can Check Out The ScreenShot Of The App's Home Page
+<img width="738" height="1600" alt="PulsePlay Screenshot" src="https://github.com/user-attachments/assets/7b8d2760-27e5-40ef-b540-3c0d0a6b8e6f" />
